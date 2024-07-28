@@ -1,4 +1,3 @@
-Certainly! Here is the provided content formatted in Markdown for your `README.md` file:
 
 ---
 
